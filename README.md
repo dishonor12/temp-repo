@@ -3,4 +3,5 @@
  2. Commit a file
  3. Open a pull request
  4. Merge your pull request
+
 Caution! before begin with step 4 you should inspect a pull request that you want to merge it.
